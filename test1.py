@@ -1,4 +1,10 @@
-print 'Hello Python World!'
+w = 'Hello Python World!'
+
+print w
+
+
+
+print 'Finished writing Hellow World to a file!'
 
 a=1
 b=2
